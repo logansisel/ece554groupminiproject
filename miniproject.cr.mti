@@ -1,0 +1,35 @@
+{C:/Users/Logan Sisel/Documents/GitHub/ece554groupminiproject/systolic_array_tc.svh} {1 {vlog -work work -sv -stats=none {C:/Users/Logan Sisel/Documents/GitHub/ece554groupminiproject/systolic_array_tc.svh}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+
+Top level modules:
+	--none--
+
+} {} {}} {C:/Users/Logan Sisel/Documents/GitHub/ece554groupminiproject/memory_tb.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Logan Sisel/Documents/GitHub/ece554groupminiproject/memory_tb.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+
+} {} {}} {C:/Users/Logan Sisel/Documents/GitHub/ece554groupminiproject/transpose_fifo.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Logan Sisel/Documents/GitHub/ece554groupminiproject/transpose_fifo.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+
+} {} {}} {C:/Users/Logan Sisel/Documents/GitHub/ece554groupminiproject/memA.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Logan Sisel/Documents/GitHub/ece554groupminiproject/memA.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module memA
+
+Top level modules:
+	memA
+
+} {} {}} {C:/Users/Logan Sisel/Documents/GitHub/ece554groupminiproject/fifo.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Logan Sisel/Documents/GitHub/ece554groupminiproject/fifo.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module fifo
+
+Top level modules:
+	fifo
+
+} {} {}} {C:/Users/Logan Sisel/Documents/GitHub/ece554groupminiproject/systolic_array_tb.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Logan Sisel/Documents/GitHub/ece554groupminiproject/systolic_array_tb.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling package systolic_array_tb_sv_unit
+-- Compiling module systolic_array_tb
+
+Top level modules:
+	systolic_array_tb
+
+} {} {}}

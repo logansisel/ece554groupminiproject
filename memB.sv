@@ -9,6 +9,17 @@ module memB
     output signed [BITS_AB-1:0] Bout [DIM-1:0]
     );
 
-
+  genvar x;
+  generate
+    for (x=0; x<DIM; x=x+1) begin
+      fifo     #(.DEPTH(DIM+x), 
+                .BITS(BITS_AB))
+      mem_fifos(.clk(clk),
+                .rst_n(rst_n),
+                .en(en),
+                .d(Bin[x]),
+                .q(Bout[x]));
+    end
+  endgenerate
 
 endmodule

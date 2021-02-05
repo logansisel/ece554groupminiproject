@@ -1,0 +1,14 @@
+# Compile of transpose_fifo.sv was successful.
+# Compile of fifo.sv was successful.
+# Compile of memA.sv was successful.
+# Compile of memB.sv failed with 2 errors.
+# Compile of memory_tb.sv was successful.
+# Compile of systolic_array_tb.sv was successful.
+# Compile of systolic_array_tc.svh was successful.
+# 7 compiles, 1 failed with 2 errors.
+# Compile of memB.sv failed with 2 errors.
+# Compile of memB.sv failed with 27 errors.
+# Compile of memB.sv failed with 3 errors.
+# Compile of memB.sv failed with 1 errors.
+# Compile of memB.sv was successful.
+# Compile of memB.sv was successful.
